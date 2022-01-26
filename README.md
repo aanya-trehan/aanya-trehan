@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github.com/aanya-trehan/aanya-trehan/blob/main/aanya_banner.png" >
 
 <!--
 **aanya-trehan/aanya-trehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
