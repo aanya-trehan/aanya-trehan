@@ -50,8 +50,6 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=aanya-trehan&show_icons=true&count_private=true&hide_border=true" align="left" /> 
-
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aanya-trehan&theme=react&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=aanya-trehan&&style=flat-square)  
