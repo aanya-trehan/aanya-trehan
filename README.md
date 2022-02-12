@@ -9,7 +9,7 @@
 - I am pursuing my 2nd year of B.Tech in Computer Science and Social Sciences at IIIT Delhi.  
   
 
-- I am currently learning Web dev and actively improving my CP and DSA skills.  
+- I am currently exploring various fields and actively improving my DSA skills.  
   
 
 - I enjoy coding, designing, art and learning new things!  
