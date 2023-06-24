@@ -6,7 +6,7 @@
 ## About me  
   
 
-- Upcoming 3rd year B.Tech Student pursuing Computer Science and Social Sciences at IIIT Delhi.  
+- Upcoming 4th year B.Tech Student pursuing Computer Science and Social Sciences at IIIT Delhi.  
   
 
 - I am currently exploring various fields and actively improving my DSA skills.  
